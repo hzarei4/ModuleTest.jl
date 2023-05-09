@@ -2,7 +2,7 @@
 
 julia_version = "1.8.5"
 manifest_format = "2.0"
-project_hash = "bdbcefd38daaa36c6ed8ec56d45ad5f5afa19fa4"
+project_hash = "cfda751a64fe639a15416febb710d6546aec5452"
 
 [[deps.AbstractFFTs]]
 deps = ["ChainRulesCore", "LinearAlgebra"]
@@ -87,6 +87,14 @@ version = "0.4.2"
 deps = ["CustomUnitRanges", "OffsetArrays"]
 git-tree-sha1 = "a0f80a09780eed9b1d106a1bf62041c2efc995bc"
 uuid = "aafaddc9-749c-510e-ac4f-586e18779b91"
+version = "0.2.2"
+
+[[deps.CenterIndexedArrays]]
+deps = ["Interpolations", "OffsetArrays"]
+git-tree-sha1 = "8152c6b496605119c14e02ab51c78c6c192b2bc2"
+repo-rev = "master"
+repo-url = "https://github.com/HolyLab/CenterIndexedArrays.jl"
+uuid = "46a7138f-0d70-54e1-8ada-fb8296f91f24"
 version = "0.2.2"
 
 [[deps.ChainRules]]
