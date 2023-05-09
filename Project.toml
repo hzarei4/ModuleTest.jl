@@ -1,0 +1,8 @@
+name = "ModuleTest"
+uuid = "9c639127-7cbc-4713-a573-c017d9733fef"
+authors = ["hzarei4 <hzoshtolagh@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+InverseModeling = "ce844058-9528-415d-a63d-06f3dd08b29f"
+PSFDistiller = "04565bb4-ab3c-40ee-806f-74a8daaad57b"
