@@ -6,3 +6,7 @@ version = "0.1.0"
 [deps]
 InverseModeling = "ce844058-9528-415d-a63d-06f3dd08b29f"
 PSFDistiller = "04565bb4-ab3c-40ee-806f-74a8daaad57b"
+
+[compat]
+PSFDistiller = "0.1.0"
+julia = "1.8"
