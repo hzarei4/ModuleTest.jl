@@ -4,6 +4,6 @@ authors = ["hzarei4 <hzoshtolagh@gmail.com>"]
 version = "0.1.0"
 
 [deps]
-CenterIndexedArrays = "46a7138f-0d70-54e1-8ada-fb8296f91f24"
-InverseModeling = "ce844058-9528-415d-a63d-06f3dd08b29f"
-PSFDistiller = "04565bb4-ab3c-40ee-806f-74a8daaad57b"
+CenterIndexedArrays = "https://github.com/HolyLab/CenterIndexedArrays.jl"
+InverseModeling = "https://github.com/RainerHeintzmann/InverseModeling.jl"
+PSFDistiller = "https://github.com/bionanoimaging/PSFDistiller.jl"
