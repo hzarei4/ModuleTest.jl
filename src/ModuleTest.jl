@@ -1,5 +1,5 @@
 module ModuleTest
-
+print("Hello")
 using PSFDistiller
 using InverseModeling
 
